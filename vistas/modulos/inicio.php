@@ -17,7 +17,7 @@
 
           <span class="input-group-btn">
 
-            <button class="btn btn-success" type="submit">Agregar</button>
+            <button class="btn btn-success" type="submit">Agregar una modificación al archivo</button>
 
           </span>
           

@@ -1,0 +1,14 @@
+==========================================	
+SISTEMA DE LISTA DE PRODUCTOS
+==========================================
+Base de Datos: MySQL
+
+**El archivo de la BD esta ubicada en la carpeta de MySQL que es la que se tiene que importar.
+
+**En la carpeta de modelos existe un archivo llamado conexion.php, es donde se tienen que agregar las credenciales para 
+la conexión a la BD.
+
+**Tambien en la carpeta de modelos existe un archivo llamado rutas.php que es donde se le tiene que agregar la IP del servidor
+donde estara ubicado el sistema.
+
+
